@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bill Wallis
+👋 Hi, I’m Bill Wallis
 ---
 I do stuff and other stuff
 
