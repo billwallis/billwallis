@@ -2,7 +2,7 @@
 ---
 I like Maths, coding, and Star Trek – Qapla'!
 
-I'm a Data person, specialising in SQL and Python. A lot of my brain poweris spent thinking about automation, optimisation, appilications structure, and data models.
+I'm a Data person, specialising in SQL and Python. A lot of my brain power is spent thinking about automation, optimisation, application structure, and data modelling.
 
 I'm motivated by "how I do" rather than "what I do".
 
@@ -28,10 +28,10 @@ Some of my pet peeves include:
 - Analytics Engineer at Sainsbury's currently
 
 ### Personal Projects :computer: :keyboard:
-- A mathematics textbook on algebraic permutations
 - An application to track what I'm working on throughout the day ([daily-tracker](https://github.com/Bilbottom/daily-tracker))
 - A custom Excel add-in ([vba-projects/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit))
 - Writing emulators for various games (like [blackjack](https://github.com/Bilbottom/blackjack))
+- A mathematics textbook on algebraic permutations ([permutations](https://github.com/Bilbottom/permutations))
 
 
 <!-- My (public) contact information -->
