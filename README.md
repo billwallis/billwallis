@@ -27,24 +27,18 @@ Some of my pet peeves include:
 - Data Analyst at Allica Bank for 1 year
 - Analytics Engineer at Sainsbury's currently
 
-### Personal Projects :computer: :keyboard:
-- An application to track what I'm working on throughout the day ([daily-tracker](https://github.com/Bilbottom/daily-tracker))
-- A custom Excel add-in ([vba-projects/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit))
-- Writing emulators for various games (like [blackjack](https://github.com/Bilbottom/blackjack))
-- A mathematics textbook on algebraic permutations ([permutations](https://github.com/Bilbottom/permutations))
-
 
 <!-- My (public) contact information -->
 :envelope: My Info
 ---
 
-<center>
+<div style="text-align: center;">
 
-| :pencil: GitHub | :globe_with_meridians: LinkedIn |
-| --- | --- |
-| [github.com/Bilbottom](https://github.com/Bilbottom) | [linkedin.com/in/bill-wallis](https://www.linkedin.com/in/bill-wallis/) |
+| :octocat: GitHub Pages                              | <img alt="GitHub" height="12px" src="https://github.com/favicon.ico"> GitHub | <img alt="LinkedIn" height="12px" src="https://linkedin.com/favicon.ico"> LinkedIn |
+|-----------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [bilbottom.github.io](https://bilbottom.github.io/) | [github.com/Bilbottom](https://github.com/Bilbottom)                         | [linkedin.com/in/bill-wallis](https://www.linkedin.com/in/bill-wallis/)            |
 
-</center>
+</div>
 
 
 <!-- GitHub activity -->
