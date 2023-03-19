@@ -28,17 +28,4 @@ Some of my pet peeves include:
 - Analytics Engineer at Sainsbury's currently
 
 
-<!-- My (public) contact information -->
-:envelope: My Info
----
-
-<div style="text-align: center;">
-
-| :octocat: GitHub Pages                              | <img alt="GitHub" height="12px" src="https://github.com/favicon.ico"> GitHub | <img alt="LinkedIn" height="12px" src="https://linkedin.com/favicon.ico"> LinkedIn |
-|-----------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [bilbottom.github.io](https://bilbottom.github.io/) | [github.com/Bilbottom](https://github.com/Bilbottom)                         | [linkedin.com/in/bill-wallis](https://www.linkedin.com/in/bill-wallis/)            |
-
-</div>
-
-
 <!-- GitHub activity -->
