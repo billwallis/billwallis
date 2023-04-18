@@ -33,6 +33,6 @@ Some of my pet peeves include:
 ---
 > Powered by https://github.com/anuraghazra/github-readme-stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilbottom&theme=darcula&count_private=true&show_icons=true)](https://github.com/bilbottom/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilbottom&theme=darcula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilbottom&count_private=true&show_icons=true&theme=darcula&langs_count=8&layout=compact&hide=html&exclude_repo=data-science-projects)](https://github.com/bilbottom/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilbottom&count_private=true&show_icons=true&theme=darcula&langs_count=8&layout=compact&hide=html&exclude_repo=data-science-projects)](https://github.com/anuraghazra/github-readme-stats)
