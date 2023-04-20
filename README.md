@@ -1,3 +1,12 @@
+<div align="center">
+  
+  <a href="">![](https://img.shields.io/badge/nerdiness-100%25-brightgreen)</a>
+  <a href="">![](https://visitor-badge.glitch.me/badge?page_id=github.com/bilbottom)</a>
+  <a href="">[![LinkedIn](https://img.shields.io/badge/-bilbottom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bill-wallis/)](https://www.linkedin.com/in/bill-wallis/)</a>
+  <a href="">[![GitHub Follow](https://img.shields.io/github/followers/bilbottom?label=follow&style=social)](https://github.com/Bilbottom)</a>
+
+</div>
+
 :mage: Howdy, I’m Bill Wallis
 ---
 I like Maths, coding, and Star Trek – Qapla'!
@@ -11,8 +20,6 @@ Some of my pet peeves include:
 - Ted Mosby
 - Datetime formats that don't follow [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
 
-<!-- Include image of moi that's right-aligned -->
-
 
 <!-- A little bit about me -->
 :thinking: Who is Billiam anyway?
@@ -25,14 +32,42 @@ Some of my pet peeves include:
 - Credit Risk Analyst at TSB for 2 years
 - Analyst at Jaja Finance for 1 year
 - Data Analyst at Allica Bank for 1 year
-- Analytics Engineer at Sainsbury's currently
+- Analytics Engineer at Sainsbury's (:avocado:) currently
 
 
-<!-- GitHub activity -->
-:bar_chart: Check out my stats!
+<!-- "Bilbottom as Code" & GitHub activity -->
 ---
+
+<table>
+ <tr>
+  <th> :robot: Bilbottom as Code </th>
+  <th> :bar_chart: GitHub Stats </th>
+ </tr>
+ <tr>
+  <td>
+
+```python
+class Bilbottom(TypicalNerd):
+    """A man, a myth, a legend."""
+    name = "Bill Wallis"
+    pseudonym = "Billiam"
+    location = "London, England"
+    languages = ["SQL", "Python"]
+    
+    @property
+    def favourite_language(self) -> str:
+        return random.choice(self.languages)
+```
+
+  </td>
+  <td>
+
 > Powered by https://github.com/anuraghazra/github-readme-stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilbottom&theme=darcula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bilbottom&theme=darcula&count_private=true&show_icons=true" alt="bilbottom-stats" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilbottom&count_private=true&show_icons=true&theme=darcula&langs_count=8&layout=compact&hide=html&exclude_repo=data-science-projects)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilbottom&count_private=true&show_icons=true&theme=darcula&langs_count=8&layout=compact&hide=html&exclude_repo=data-science-projects" alt="bilbottom-top-langs" /> -->
+
+  </td>
+ </tr>
+</table>
