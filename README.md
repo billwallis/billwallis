@@ -1,7 +1,7 @@
 <div align="center">
   
-  <a href="">![](https://img.shields.io/badge/nerdiness-100%25-brightgreen)</a>
-  <a href="">![](https://visitor-badge.glitch.me/badge?page_id=github.com/bilbottom)</a>
+  <a href="">[![](https://img.shields.io/badge/nerdiness-100%25-brightgreen)](https://shields.io/)</a>
+  <a href="">[![](https://visitor-badge.glitch.me/badge?page_id=github.com/bilbottom)](https://visitor-badge.glitch.me/)</a>
   <a href="">[![LinkedIn](https://img.shields.io/badge/-bilbottom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bill-wallis/)](https://www.linkedin.com/in/bill-wallis/)</a>
   <a href="">[![GitHub Follow](https://img.shields.io/github/followers/bilbottom?label=follow&style=social)](https://github.com/Bilbottom)</a>
 
