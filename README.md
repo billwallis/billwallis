@@ -49,8 +49,7 @@ Some of my pet peeves include:
 ```python
 class Bilbottom(TypicalNerd):
     """A man, a myth, a legend."""
-    name = "Bill Wallis"
-    pseudonym = "Billiam"
+    name = "Billiam"
     location = "London, England"
     languages = ["SQL", "Python"]
     
