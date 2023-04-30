@@ -7,7 +7,7 @@
 
 </div>
 
-:mage: Howdy, I’m Bill Wallis
+:mage: Howdy, I’m Billiam
 ---
 I like Maths, coding, and Star Trek – Qapla'!
 
