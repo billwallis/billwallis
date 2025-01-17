@@ -3,7 +3,6 @@
   <a href="">[![](https://img.shields.io/badge/nerdiness-100%25-brightgreen)](https://shields.io/)</a>
   <a href="">[![](https://visitor-badge.glitch.me/badge?page_id=github.com/bilbottom)](https://visitor-badge.glitch.me/)</a>
   <a href="">[![GitHub Follow](https://img.shields.io/github/followers/bilbottom?label=follow&style=social)](https://github.com/Bilbottom)</a>
-<!--   <a href="">[![LinkedIn](https://img.shields.io/badge/-bilbottom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bill-wallis/)](https://www.linkedin.com/in/bill-wallis/)</a> -->
 
 </div>
 
@@ -32,7 +31,8 @@ Some of my pet peeves include:
 - Credit Risk Analyst at TSB for 2 years
 - Analyst at Jaja Finance for 1 year
 - Data Analyst at Allica Bank for 1 year
-- Analytics Engineer at Sainsbury's (:avocado:) currently
+- Analytics Engineer at Sainsbury's (🥑) for 1.5 years
+- Backend Engineer at Sainsbury's currently
 
 
 <!-- "Bilbottom as Code" & GitHub activity -->
