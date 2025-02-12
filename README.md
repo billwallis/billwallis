@@ -16,7 +16,7 @@ I'm motivated by "how I do" rather than "what I do".
 
 Some of my pet peeves include:
 - Homonyms
-- Ted Mosby
+- The `OUTER` keyword
 - Datetime formats that don't follow [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
 
 
