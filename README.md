@@ -26,13 +26,14 @@ Some of my pet peeves include:
 
 ### Education and Career :man_student: :man_office_worker:
 - Art & Design Foundation Diploma for 1 year
-- Brighton University for 3 years to get a Maths BSc
-- Warwick University for 1 year to get a Pure Maths MSc
-- Credit Risk Analyst at TSB for 2 years
-- Analyst at Jaja Finance for 1 year
-- Data Analyst at Allica Bank for 1 year
-- Analytics Engineer at Sainsbury's (🥑) for 1.5 years
-- Backend Engineer at Sainsbury's currently
+- [Brighton University](https://www.brighton.ac.uk/) for 3 years to get a Maths BSc
+- [Warwick University](https://warwick.ac.uk/) for 1 year to get a Pure Maths MSc
+- Credit Risk Analyst at [TSB](https://www.tsb.co.uk/) for 2 years
+- Analyst at [Jaja Finance](https://jaja.co.uk/) for 1 year
+- Data Analyst at [Allica Bank](https://www.allica.bank/) for 1 year
+- Analytics Engineer at [Sainsbury's](https://sainsburys.jobs/teams/technology) (🥑) for 1.5 years
+- Backend Engineer at [Sainsbury's](https://sainsburys.jobs/teams/technology) for 1 year
+- Analytics Engineer at [Tasman Analytics](https://www.tasman.ai/) currently
 
 
 <!-- "Bilbottom as Code" & GitHub activity -->
