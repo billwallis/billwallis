@@ -6,7 +6,7 @@
 
 </div>
 
-:mage: Howdy, I’m Billiam
+:mage: Howdy, I’m Billiam :rainbow_flag::transgender_flag:
 ---
 I like Maths, coding, and Star Trek – Qapla'!
 
