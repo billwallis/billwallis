@@ -1,8 +1,8 @@
 <div align="center">
   
   <a href="">[![](https://img.shields.io/badge/nerdiness-100%25-brightgreen)](https://shields.io/)</a>
-  <a href="">[![](https://visitor-badge.glitch.me/badge?page_id=github.com/bilbottom)](https://visitor-badge.glitch.me/)</a>
-  <a href="">[![GitHub Follow](https://img.shields.io/github/followers/bilbottom?label=follow&style=social)](https://github.com/Bilbottom)</a>
+  <a href="">[![](https://visitor-badge.glitch.me/badge?page_id=github.com/billwallis)](https://visitor-badge.glitch.me/)</a>
+  <a href="">[![GitHub Follow](https://img.shields.io/github/followers/billwallis?label=follow&style=social)](https://github.com/billwallis)</a>
 
 </div>
 
@@ -36,19 +36,19 @@ Some of my pet peeves include:
 - Analytics Engineer at [Tasman Analytics](https://www.tasman.ai/) currently
 
 
-<!-- "Bilbottom as Code" & GitHub activity -->
+<!-- "billwallis as Code" & GitHub activity -->
 ---
 
 <table>
  <tr>
-  <th> :robot: Bilbottom as Code </th>
+  <th> :robot: billwallis as Code </th>
   <th> :bar_chart: GitHub Stats </th>
  </tr>
  <tr>
   <td>
 
 ```python
-class Bilbottom(TypicalNerd):
+class billwallis(TypicalNerd):
     """A man, a myth, a legend."""
     name = "Billiam"
     location = "London, England"
@@ -64,9 +64,9 @@ class Bilbottom(TypicalNerd):
 
 > Powered by https://github.com/anuraghazra/github-readme-stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bilbottom&theme=darcula&count_private=true&show_icons=true" alt="bilbottom-stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=billwallis&theme=darcula&count_private=true&show_icons=true" alt="billwallis-stats" />
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilbottom&count_private=true&show_icons=true&theme=darcula&langs_count=8&layout=compact&hide=html&exclude_repo=data-science-projects" alt="bilbottom-top-langs" /> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billwallis&count_private=true&show_icons=true&theme=darcula&langs_count=8&layout=compact&hide=html&exclude_repo=data-science-projects" alt="billwallis-top-langs" /> -->
 
   </td>
  </tr>
