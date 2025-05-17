@@ -48,7 +48,7 @@ Some of my pet peeves include:
   <td>
 
 ```python
-class billwallis(TypicalNerd):
+class Billiam(TypicalNerd):
     """A man, a myth, a legend."""
     name = "Billiam"
     location = "London, England"
