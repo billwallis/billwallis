@@ -4,6 +4,8 @@
   <a href="">[![](https://visitor-badge.glitch.me/badge?page_id=github.com/billwallis)](https://visitor-badge.glitch.me/)</a>
   <a href="">[![GitHub Follow](https://img.shields.io/github/followers/billwallis?label=follow&style=social)](https://github.com/billwallis)</a>
 
+  <sub>💙 My projects are made with love, not AI 🤖</sub>
+
 </div>
 
 :mage: Howdy, I’m Billiam :rainbow_flag::transgender_flag:
