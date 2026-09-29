@@ -35,7 +35,8 @@ Some of my pet peeves include:
 - Data Analyst at [Allica Bank](https://www.allica.bank/) for 1 year
 - Analytics Engineer at [Sainsbury's](https://sainsburys.jobs/teams/technology) (🥑) for 1.5 years
 - Backend Engineer at [Sainsbury's](https://sainsburys.jobs/teams/technology) for 1 year
-- Analytics Engineer at [Tasman Analytics](https://www.tasman.ai/) currently
+- Analytics Engineer at [Tasman Analytics](https://www.tasman.ai/) for 1.5 years
+- Data Engineer at [Sainsbury's](https://sainsburys.jobs/teams/technology) (🥝) currently (again!)
 
 
 <!-- "billwallis as Code" & GitHub activity -->
